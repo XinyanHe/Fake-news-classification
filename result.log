@@ -1,0 +1,108 @@
+Python 3.8.5 (default, Jul 21 2020, 10:48:26) 
+[Clang 11.0.3 (clang-1103.0.32.62)]
+Type "help", "copyright", "credits" or "license" for more information.
+[evaluate hw1_q4_code.py]
+For lambd 5e-05: 
+The training errors is 0.023827398142615905. The test error is 2.601391644823132.
+For lambd 0.0001510204081632653: 
+The training errors is 0.05891274573913382. The test error is 1.7287677994041541.
+For lambd 0.00025204081632653066: 
+The training errors is 0.08829510341160733. The test error is 1.449041107721427.
+For lambd 0.000353061224489796: 
+The training errors is 0.11469870650014875. The test error is 1.3106086900637677.
+For lambd 0.0004540816326530613: 
+The training errors is 0.13923988850774655. The test error is 1.230498596164057.
+For lambd 0.0005551020408163266: 
+The training errors is 0.16248341903497196. The test error is 1.180389255472876.
+For lambd 0.000656122448979592: 
+The training errors is 0.18474660580356286. The test error is 1.1477791855291433.
+For lambd 0.0007571428571428573: 
+The training errors is 0.20622199234382155. The test error is 1.126249517067796.
+For lambd 0.0008581632653061226: 
+The training errors is 0.22703389988077496. The test error is 1.1121518828937424.
+For lambd 0.0009591836734693879: 
+The training errors is 0.24726692464648709. The test error is 1.1032544106716156.
+For lambd 0.001060204081632653: 
+The training errors is 0.2669813250794569. The test error is 1.0981135197902825.
+For lambd 0.0011612244897959184: 
+The training errors is 0.2862218047050552. The test error is 1.0957538481482652.
+For lambd 0.0012622448979591838: 
+The training errors is 0.30502276073061607. The test error is 1.0954928990341024.
+For lambd 0.001363265306122449: 
+The training errors is 0.32341154386293675. The test error is 1.0968392292395663.
+For lambd 0.0014642857142857144: 
+The training errors is 0.3414105505221353. The test error is 1.0994304538825799.
+For lambd 0.0015653061224489796: 
+The training errors is 0.35903860424252554. The test error is 1.1029939651442389.
+For lambd 0.001666326530612245: 
+The training errors is 0.37631189058655873. The test error is 1.10732118947552.
+For lambd 0.0017673469387755104: 
+The training errors is 0.39324460386127696. The test error is 1.1122502216496666.
+For lambd 0.0018683673469387756: 
+The training errors is 0.40984940331483316. The test error is 1.117653811783481.
+For lambd 0.001969387755102041: 
+The training errors is 0.4261377407022196. The test error is 1.1234308705075882.
+For lambd 0.0020704081632653064: 
+The training errors is 0.44212009936214175. The test error is 1.1295003442370213.
+For lambd 0.002171428571428572: 
+The training errors is 0.4578061713896183. The test error is 1.135796722480583.
+For lambd 0.002272448979591837: 
+The training errors is 0.47320499084143136. The test error is 1.1422666911374018.
+For lambd 0.0023734693877551023: 
+The training errors is 0.48832503528124205. The test error is 1.1488666047195633.
+For lambd 0.002474489795918368: 
+The training errors is 0.5031743042366998. The test error is 1.1555605531143072.
+For lambd 0.002575510204081633: 
+The training errors is 0.5177603806219528. The test error is 1.1623188662165584.
+For lambd 0.0026765306122448983: 
+The training errors is 0.5320904794538492. The test error is 1.169116945285102.
+For lambd 0.0027775510204081635: 
+The training errors is 0.5461714869921586. The test error is 1.1759343410147305.
+For lambd 0.002878571428571429: 
+The training errors is 0.5600099925916273. The test error is 1.1827540199582736.
+For lambd 0.0029795918367346943: 
+The training errors is 0.5736123149542308. The test error is 1.1895617761946025.
+For lambd 0.0030806122448979595: 
+The training errors is 0.5869845240389064. The test error is 1.1963457560476183.
+For lambd 0.003181632653061225: 
+The training errors is 0.6001324595729602. The test error is 1.203096071556268.
+For lambd 0.0032826530612244903: 
+The training errors is 0.6130617468798986. The test error is 1.2098044841755542.
+For lambd 0.0033836734693877555: 
+The training errors is 0.6257778105688381. The test error is 1.2164641444656077.
+For lambd 0.003484693877551021: 
+The training errors is 0.6382858865043093. The test error is 1.2230693767226448.
+For lambd 0.0035857142857142863: 
+The training errors is 0.6505910323804637. The test error is 1.2296154999172533.
+For lambd 0.0036867346938775514: 
+The training errors is 0.6626981371520444. The test error is 1.2360986781407932.
+For lambd 0.003787755102040817: 
+The training errors is 0.6746119295199957. The test error is 1.2425157951688128.
+For lambd 0.0038887755102040822: 
+The training errors is 0.686336985627886. The test error is 1.248864348839178.
+For lambd 0.003989795918367347: 
+The training errors is 0.6978777360932141. The test error is 1.2551423617905222.
+For lambd 0.004090816326530612: 
+The training errors is 0.7092384724728252. The test error is 1.2613483057714814.
+For lambd 0.004191836734693878: 
+The training errors is 0.7204233532423231. The test error is 1.2674810372558623.
+For lambd 0.004292857142857143: 
+The training errors is 0.7314364093542275. The test error is 1.2735397425155075.
+For lambd 0.004393877551020408: 
+The training errors is 0.7422815494277316. The test error is 1.279523890635272.
+For lambd 0.004494897959183674: 
+The training errors is 0.7529625646135091. The test error is 1.2854331932216374.
+For lambd 0.004595918367346939: 
+The training errors is 0.7634831331695467. The test error is 1.2912675697720934.
+For lambd 0.004696938775510204: 
+The training errors is 0.7738468247780173. The test error is 1.2970271178472275.
+For lambd 0.00479795918367347: 
+The training errors is 0.7840571046284173. The test error is 1.3027120873299654.
+For lambd 0.004898979591836735: 
+The training errors is 0.7941173372883512. The test error is 1.3083228581730009.
+For lambd 0.005: 
+The training errors is 0.8040307903801956. The test error is 1.3138599211313073.
+The lambd value with minimum cross validation erros for 5-fold is: 0.0012622448979591838
+The cross validation errors at this point is :1.4646547577624465
+The lambd value with minimum cross validation erros for 10-fold is: 0.0011612244897959184
+The cross validation errors at this point is :1.3878045664991725
